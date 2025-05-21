@@ -17,7 +17,7 @@ to withdraw money,deposit.
 ![image](https://github.com/user-attachments/assets/2ad9494f-3cd3-471d-b873-7a2e720443fd)
 
 #### ACTIVITY DIAGRAM:
-![image](https://github.com/user-attachments/assets/82687b1b-98d4-4d43-ab58-280bf37a7a64)
+![image](https://github.com/user-attachments/assets/1544946a-827e-448d-b80c-7d5cbe5e4f69)
 
 #### COMMUNICATION DIAGRAM:
 ![image](https://github.com/user-attachments/assets/c6fe7de7-c00d-46f8-813e-58deeb5663b6)
